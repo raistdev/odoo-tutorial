@@ -2,4 +2,4 @@
 ## Observations
 
 ## Thanks
-Dot files (.pylint, .ruff.toml and .eslintrc.yml) from to [Tecnativa doodba copier template](https://github.com/Tecnativa) repository
+Dot files (.pylint, .ruff.toml and .eslintrc.yml) from [Tecnativa doodba copier template](https://github.com/Tecnativa) repository
